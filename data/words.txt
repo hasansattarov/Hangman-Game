@@ -1,0 +1,7 @@
+dog, chases cats, mans best friend, likes bones, 3
+kitty, chases mice, finicky, likes milk, 5
+horse, fun to ride, eats apples, likes hay, 5
+mouse, small, crawls, likes cheese, 5
+dragon, big, has wings, spits fire, 6 
+dinosaur, huge, extinct, eats grass, 8
+monster, scary, ugly, eats humans, 7
